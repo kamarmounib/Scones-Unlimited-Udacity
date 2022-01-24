@@ -5,7 +5,7 @@ when any inference is greater than THRESHOLD
 import json
 
 
-THRESHOLD = .93
+THRESHOLD = .99
 
 
 def lambda_handler(event, context):
